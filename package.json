@@ -1,0 +1,32 @@
+{
+  "name": "number-to-hex-color",
+  "version": "0.0.1",
+  "description": "This converts number ranging from 0 to 16777215 to hex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshi-mehul/number-to-hex-color.git"
+  },
+  "keywords": [
+    "number",
+    "to",
+    "hex",
+    "number",
+    "to",
+    "color",
+    "number",
+    "to",
+    "hex",
+    "color",
+    "string"
+  ],
+  "author": "Mehul Joshi <mehul0923@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshi-mehul/number-to-hex-color/issues"
+  },
+  "homepage": "https://github.com/joshi-mehul/number-to-hex-color#readme"
+}
